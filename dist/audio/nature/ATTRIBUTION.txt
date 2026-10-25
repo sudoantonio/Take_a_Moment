@@ -1,0 +1,61 @@
+The original three CC0 nature recordings: birds by kvgarlic, stream by gluckose, wind by felix.blume. Full sources and processing are in credits.json.
+
+NEW BACKGROUND RECORDINGS — full rollout
+Prepared on 2026-10-25. The three approved pilot backgrounds are unchanged.
+Each file is a separate quiet loop intended beneath spoken guidance.
+
+rain: rain ambience
+Author: alex36917
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Original: https://freesound.org/people/alex36917/sounds/524605/
+Downloaded from: https://raw.githubusercontent.com/rafaelmardojai/blanket/master/data/resources/sounds/rain.ogg
+Previous edit: Porrumentzio (Blanket)
+Local changes: Selected interval; 120 Hz high-pass, 6000 Hz low-pass, gentle peak compression, -29 LUFS normalization with -13 dB peak limiting, 2 s seamless crossfade, 44.1 kHz stereo 128 kbps MP3 encoding.
+Selection: Quiet early rain interval; excludes later thunder and train horn.
+Prepared file: audio/nature/rain.mp3
+
+waves: oceanwavescrushing.wav
+Author: Luftrum
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Original: https://freesound.org/people/Luftrum/sounds/48412/
+Downloaded from: https://raw.githubusercontent.com/rafaelmardojai/blanket/master/data/resources/sounds/waves.ogg
+Previous edit: Porrumentzio (Blanket)
+Local changes: Selected interval; 90 Hz high-pass, 5500 Hz low-pass, gentle peak compression, -29 LUFS normalization with -13 dB peak limiting, 4 s seamless crossfade, 44.1 kHz stereo 128 kbps MP3 encoding.
+Selection: Medium shore waves, softened and kept beneath narration.
+Prepared file: audio/nature/waves.mp3
+
+fireplace: Fireplace
+Author: ezwa
+License: Public Domain — https://soundbible.com/1543-Fireplace.html
+Original: https://soundbible.com/1543-Fireplace.html
+Downloaded from: https://raw.githubusercontent.com/rafaelmardojai/blanket/master/data/resources/sounds/fireplace.ogg
+Local changes: Selected interval; 90 Hz high-pass, 4500 Hz low-pass, gentle peak compression, -29 LUFS normalization with -13 dB peak limiting, 3 s seamless crossfade, 44.1 kHz stereo 128 kbps MP3 encoding.
+Selection: Small fireplace crackles; peak compression softens isolated ticks.
+Prepared file: audio/nature/fireplace.mp3
+
+summer-night: Crickets Chirping At Night
+Author: Lisa Redfern
+License: Public Domain — https://soundbible.com/2083-Crickets-Chirping-At-Night.html
+Original: https://soundbible.com/2083-Crickets-Chirping-At-Night.html
+Downloaded from: https://raw.githubusercontent.com/rafaelmardojai/blanket/master/data/resources/sounds/summer-night.ogg
+Local changes: Selected interval; 120 Hz high-pass, 6000 Hz low-pass, gentle peak compression, -29 LUFS normalization with -13 dB peak limiting, 4 s seamless crossfade, 44.1 kHz stereo 128 kbps MP3 encoding.
+Selection: Continuous summer-night crickets; reduced high-frequency brightness.
+Prepared file: audio/nature/summer-night.mp3
+
+chimes: Wind Chime Gentle.mp3
+Author: _natiKatz
+License: CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
+Original: https://freesound.org/people/_natiKatz/sounds/530603/
+Downloaded from: https://cdn.freesound.org/previews/530/530603_1621161-hq.mp3
+Local changes: Selected interval; 120 Hz high-pass, 4000 Hz low-pass, gentle peak compression, -29 LUFS normalization with -13 dB peak limiting, 3 s seamless crossfade, 44.1 kHz stereo 128 kbps MP3 encoding.
+Selection: Public HQ preview; gentle later section, excluding strongest early chime.
+Prepared file: audio/nature/chimes.mp3
+
+bowl: Singing bowl, low and quiet
+Author: eliasheuninck
+License: CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
+Original: https://freesound.org/people/eliasheuninck/sounds/170672/
+Downloaded from: https://cdn.freesound.org/previews/170/170672_1407-hq.mp3
+Local changes: Selected interval; 60 Hz high-pass, 2200 Hz low-pass, gentle peak compression, -29 LUFS normalization with -13 dB peak limiting, 4 s seamless crossfade, 44.1 kHz stereo 128 kbps MP3 encoding.
+Selection: Public HQ preview; sustained resonance after the initial strike.
+Prepared file: audio/nature/bowl.mp3
