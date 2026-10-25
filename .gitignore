@@ -1,0 +1,8 @@
+.DS_Store
+.sites-local/
+.sites-tmp/
+.wrangler/
+node_modules/
+__pycache__/
+*.log
+/voiceover/all-experiences-audio.zip

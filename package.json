@@ -1,0 +1,11 @@
+{
+  "name": "bfp-un-momento-mvp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "python3 dev-server.py",
+    "test": "node --test tests/*.test.js && python3 -m unittest discover -s tests -p 'test_*.py'",
+    "check": "node --check dist/i18n.js && node --check dist/locales/es.js && node --check dist/app.js && node --check dist/contact.js && node --check dist/journey.js && node --check dist/activity.js && node --check dist/breathing.js && node --check dist/scenes.js && node --check dist/immersive.js && node --check dist/ambient-audio.js && node --check dist/practice-audio.js && node --check dist/offline.js && node --check dist/sw.js"
+  }
+}

@@ -1,0 +1,28 @@
+TAKE A MOMENT — SITO COMPLETO INGLESE / SPAGNOLO
+
+AVVIO LOCALE (richiede Python 3)
+1. Estrai questo archivio.
+2. Apri il terminale nella cartella Take-a-Moment.
+3. Esegui: python3 dev-server.py
+4. Apri http://127.0.0.1:8780/
+
+Non aprire index.html con un doppio clic: i moduli JavaScript e le funzioni offline richiedono un server HTTP locale o HTTPS.
+
+CONTENUTO
+- dist/: sito completo, immagini, PDF e tutti i 77 file audio.
+- dev-server.py: server locale con compressione e cache.
+- package.json e tests/: comandi e test del progetto.
+- sources/: documento sorgente degli esercizi.
+- README.md: documentazione tecnica e attribuzioni.
+
+LINGUE
+Il selettore con bandierina cambia tra inglese e spagnolo nella Home, nelle pratiche e nelle impostazioni. Le istruzioni delle 21 pratiche sono tradotte. In spagnolo il tasto audio riproduce suoni naturali; le registrazioni vocali e il PDF originale sono in inglese.
+
+PUBBLICAZIONE
+Carica il contenuto di dist/ su un hosting statico con HTTPS. Le funzioni attuali non richiedono un backend. Il modulo contatti prepara una bozza nella propria app email.
+
+TEST (richiede anche Node.js)
+npm run check
+npm test
+
+Non sono inclusi cronologia Git, credenziali di hosting, dati personali del browser o duplicati di lavorazione degli audio. Gli audio usati dal sito sono inclusi integralmente in dist/audio/.
